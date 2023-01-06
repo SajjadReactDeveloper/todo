@@ -1,0 +1,13 @@
+.viewTodo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.addTodo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
